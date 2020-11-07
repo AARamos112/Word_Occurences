@@ -8,7 +8,11 @@ import static org.junit.Assert.*;
 //import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.Test;
-
+/**
+ * Junit testing class
+ * @author Angel Ramos
+ *
+ */
 public class testAnalyzer {
 
 	@Test

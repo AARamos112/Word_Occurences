@@ -4,15 +4,29 @@
 //Purpose: create a text analyzer to count word frequencies
 package application;
 
+/**
+ * Purpose: create a text analyzer to count word frequencies
+ * @author Angel Ramos
+ *
+ */
 public class Ramos_text_analyzer implements Comparable<Ramos_text_analyzer>{
 	private String word = "";
 	private int wordCount = 0;
-
+	
+	/**
+	 * Purpose: create a text analyzer to count word frequencies
+	 * @author Angel Ramos
+	 * @param word
+	 * @param wordCount
+	 */
 	public Ramos_text_analyzer(String word, int wordCount) {
 		setWord(word);
 		setWordCount(wordCount);
 	}
-
+	/**
+	 * method for getting the word
+	 * @return returns a string
+	 */
 	public String getWord() {
 		return word;
 	}

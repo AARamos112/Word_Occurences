@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"application","l":"AllTests"},{"p":"application","l":"Ramos_Main"},{"p":"application","l":"Ramos_text_analyzer"},{"p":"application","l":"testAnalyzer"},{"p":"application","l":"TestString"}]

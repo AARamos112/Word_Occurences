@@ -3,6 +3,7 @@
 //Program Name: Ramos_module7_word_occurrence
 //Purpose: create a JavaFx gui showing the top 20 word occurences
 
+
 package application;
 	
 import java.util.ArrayList;
@@ -19,6 +20,12 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.text.Text;
 import javafx.scene.text.TextFlow;
 
+/**
+ * Date: 10/18/2020
+ * Purpose: create a JavaFx gui showing the top 20 word occurences
+ * @author Angel Ramos
+ *
+ */
 public class Ramos_Main extends Application {
 	
 	@Override
@@ -125,7 +132,9 @@ public class Ramos_Main extends Application {
 		}
 				
 	}
-	
+	/**
+	 * the main method
+	 */
 	public static void main(String[] args) {
 		launch(args);
 	}

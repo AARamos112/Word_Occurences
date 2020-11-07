@@ -7,7 +7,11 @@ package application;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+/**
+ * Junit testing class
+ * @author Angel Ramos
+ *
+ */
 public class TestString {
 
 	@Test
